@@ -1,6 +1,6 @@
 # Verify-UI
 
-#### Building this 3-preview card component using html and css .
+#### Building this verify-UI web page using html and css .
 #### This is basically a responsive page so that when the screen size changes, the layout also changes which make it more interactive.
 ## Project Link->https://joyful-baklava-60d0ca.netlify.app/
 
